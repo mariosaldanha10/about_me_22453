@@ -1,4 +1,4 @@
-The design "About Me" Android app developed as part of the course Mobille Application 1 in Dorset College.
+The design "About Me" Android app was developed as part of the course Mobille Application 1 in Dorset College.
 The main activity of this app has the following:
 
 - Basic details about you including your photo, full name, email(as a short intro about me)
