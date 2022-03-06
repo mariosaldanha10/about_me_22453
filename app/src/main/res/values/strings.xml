@@ -1,4 +1,25 @@
 <resources>
-    <string name="app_name">ABOUT ME - 22453</string>
-    <string name="education">EDUCATION</string>
+    <string name="app_name">AboutMe</string>
+    <string name="mario_luis_saldanha_santos">Mario Luis Saldanha Santos</string>
+    <string name="computer_science_student">Computer Science Student</string>
+    <string name="copyright_mario_santos_2022_built_with_android_studio">© Copyright Mario Santos 2022</string>
+    <string name="achievements_respectively">Achievements respectively</string>
+    <string name="education">Education</string>
+    <string name="_22453_student_dorset_college_ie">22453@student.dorset-college.ie</string>
+    <string name="soft_skills">Soft Skills</string>
+    <string name="integrity">Integrity</string>
+    <string name="adapdability">Adapdability</string>
+    <string name="problem_solving">Problem-solving</string>
+    <string name="empathy">Empathy</string>
+    <string name="teamwork">TeamWork</string>
+    <string name="communication">Communication</string>
+    <string name="skills">SKILLS</string>
+    <string name="ui_ux_design">UI/UX Design</string>
+    <string name="database">Database</string>
+    <string name="hard_skills">Hard Skills</string>
+    <string name="mobile_development">Mobile Development</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="hobbies">HOBBIES</string>
+    <string name="built_with_android_studio">Built with Android Studio</string>
 </resources>

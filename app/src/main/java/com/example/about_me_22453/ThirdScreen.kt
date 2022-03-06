@@ -10,15 +10,26 @@ class ThirdScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_third_screen)
 
-        button_hobbies.setOnClickListener {
+        button_Next_To_Hobbies.setOnClickListener {
 
             goToFourthScreen()
         }
+
+        button_goBack_To_Education.setOnClickListener {
+
+            goToSecondScreen()
+        }
     }
 
+    private fun goToSecondScreen(){
+
+        var mySecondScreen = Intent(this, SecondScreen::class.java)
+        startActivity(mySecondScreen)
+    }
     private fun goToFourthScreen(){
 
         var myFourthScreen = Intent(this, FourthScreen::class.java)
         startActivity(myFourthScreen)
+
     }
 }

@@ -10,6 +10,7 @@ class SecondScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second_screen)
 
+
         button_skills.setOnClickListener {
 
             goToThirdScreen()
